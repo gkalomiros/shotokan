@@ -56,7 +56,7 @@ These kata were added later to the Shotokan syllabus.
 * Unsu
 * Wankan
 
-## Modern Kata
+## Modern Era Kata
 
 ### SKIF/Kanazawa
 
