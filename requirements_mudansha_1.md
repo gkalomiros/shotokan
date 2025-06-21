@@ -13,7 +13,7 @@ level and should not prevent students from promotion.
 
 #### Stances/Footwork
 
-* front stance, side stance, back stance, and fighting stance
+* front stance, side stance, back stance, and fighting stances
 * stepping forward and backward in front and back stances
 * stepping side to side in side stance
 * turning in front and back stances, pivoting on either the front or back foot
@@ -30,8 +30,8 @@ level and should not prevent students from promotion.
 
 #### Blocks
 
-* rising block, outside block, inside block, and downward block from front stance
-* knife hand block from back stance
+* rising block, outside block, inside block, downward, and augmented block from front stance
+* knife hand and augmented blocks from back stance
 
 #### Combinations
 
