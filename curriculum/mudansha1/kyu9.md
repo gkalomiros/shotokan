@@ -1,6 +1,6 @@
 # 9th Kyu/1st Blue Belt Curriculum
 
-New physical material 9th kyu/1st blue belt students learn to prepare for promotion to 8th kyu/2nd blue belt.
+Physical material 9th kyu/1st blue belt students learn to prepare for promotion to 8th kyu/2nd blue belt.
 
 ## Kihon (Basics)
 
@@ -37,8 +37,8 @@ New physical material 9th kyu/1st blue belt students learn to prepare for promot
 * front kick to lunge punch stepping forward in front stance
 * reverse punch to front kick stepping forward in front stance
 * **jab to reverse punch in fighting stance**
-* **front kick to lunge punch in fighting stance**
 * **reverse punch to front kick in fighting stance**
+* **front kick to jab in fighting stance**
 
 ## Kata (Forms)
 

@@ -17,7 +17,7 @@ to this level's requirements.
 
 * nekoashi, kosa, and renoji tachi
 * stepping forward in nekoasi and renoji tachi
-* moving forward in kodadachi
+* moving forward in kosadachi
 * turning in new stances, pivoting on either the front or rear foot
 * shifting side to side in kibadachi
 * shifting from stance to stance in place
@@ -48,7 +48,7 @@ correct alignment in techniques. Range of motion and fluidity are more important
 * kizamizuki or uraken, gyakuzuki, maegeri or mawashigeri jiyyugamae
 * kizamizuki or uraken, oizuiki, gyakuzuki jiyyugamae
 * oigyakuzuki, gyakuzuki, maegeri or mawashigeri jiyyugamae
-* kizakizuki step up maegeri or mawashigeri
+* kizamizuki step up maegeri or mawashigeri jiyyugamae
 
 ### Kata
 
@@ -61,7 +61,7 @@ correct alignment in techniques. Range of motion and fluidity are more important
 
 At this level, both uke and tori are graded for intent and effectiveness
 
-* kihon and jiyyu ippon kumite jodan oizuki, chudan oizuki, maegeri, mawashigeri, and kaiten ushirogeri
+* kihon ippon kumite jodan oizuki, chudan oizuki, maegeri, mawashigeri, and kaiten ushirogeri
 * single grabs and escapes from static positions
 
 ## Social

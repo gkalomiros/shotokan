@@ -1,23 +1,17 @@
-# (Rank) Requirements
+# (Rank) Curriculum
 
-Material (previous rank) learn to prepare for promotion to rank (belt).
+Physical material (previous rank) students learn to prepare for promotion to (rank) belt.
 
-## Physical
+## Kihon
 
-### Kihon
+### Tachi Waza
 
-#### Stances/Footwork
+### Tsuki Waza/Uke Waza/Keri Waza
 
-#### Punches/Strikes/Kicks
+### Uke Waza
 
-#### Blocks
+### Combinations
 
-#### Combinations
+## Kata
 
-### Kata
-
-### Kumite
-
-## Social
-
-## Mental
+## Kumite
