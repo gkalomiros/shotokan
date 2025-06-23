@@ -6,10 +6,10 @@ Physical material new students learn to prepare for promotion to 10th kyu/yellow
 
 ### Stances/Footwork
 
-* Front stance, side stance
-* Stepping forward and backwards in front stance
-* Turning left, right, and around in a front stance using either the front foot or rear foot
-* Stepping side to side in side stance
+* front stance, side stance
+* stepping forward and backwards in front stance
+* turning left, right, and around in a front stance using either the front foot or rear foot
+* stepping side to side in side stance
 
 ### Punches/Strikes/Kicks
 
