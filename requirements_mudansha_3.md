@@ -49,7 +49,7 @@ Examinees can expect to be asked for a basic application for any signature seque
 At this level, both uke and tori are graded for intent and effectiveness
 
 * jiyyu bag work
-* jiyyu kumite with a partner, dojo rules
+* jiyyu kumite with a partner, dojo rules. When possible, examinees should incorporate requied jiyyugamae combinations.
 * grabs and escapes while moving and with moderate and reasonable resistance. Escapes should emphasize proper
   technique, positioning, and targetting of counter attacks. When possible, examinees should incorporate the
   clear examples of the applications from their favored kata.
