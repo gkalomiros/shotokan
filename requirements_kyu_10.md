@@ -1,17 +1,40 @@
-# 10th Kyu Requirements
+# Yellow Belt Requirements
 
-Material new students learn to prepare for promotion to 10th kyu (yellow belt).
+Physical material new students learn to prepare for promotion to 10th kyu/yellow belt.
 
-## Overview
+## Kihon (Basics)
 
-## Physical
+### Stances/Footwork
 
-### Kihon
+* Front stance, side stance
+* Stepping forward and backwards in front stance
+* Turning left, right, and around in a front stance using either the front foot or rear foot
+* Stepping side to side in side stance
 
-### Kata
+### Punches/Strikes/Kicks
 
-### Kumite
+* straight punch from side stance
+* lunge punch, reverse punch, and jab from front stance
+* front kick stepping forward in stance
+* side snap kick stepping sideways in side stance
 
-## Social
+### Blocks
 
-## Mental
+* rising, outside, and downward blocks moving forward and back in front stance
+
+### Combinations
+
+* jab to reverse punch stationary in front stance
+* reverse punch to jab stationary in front stance
+* front kick to lunge punch stepping forward in front stance
+* reverse punch to front kick stepping forward in front stance
+
+## Kata (Forms)
+
+* Taikyoku Shodan
+* Taikyoku Nidan
+
+## Kumite (Partner Drills)
+
+* 5-step sparring with head-high and middle-level lunge punches and front kicks
+* simple statics grabs and escapes
