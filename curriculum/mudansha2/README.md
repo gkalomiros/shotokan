@@ -15,9 +15,8 @@ to this level's requirements.
 
 #### Stances/Footwork
 
-* nekoashi, kosa, and renoji tachi
-* stepping forward in nekoasi and renoji tachi
-* moving forward in kosadachi
+* nekoashi and kosa tachi
+* stepping forward in kosadachi and backwards in nekoashidachi
 * turning in new stances, pivoting on either the front or rear foot
 * shifting side to side in kibadachi
 * shifting from stance to stance in place
