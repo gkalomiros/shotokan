@@ -1,6 +1,6 @@
 # Advanced Mudansha Requirements
 
-Material intermediate mudansha learn to prepare for promotion to rank advanced mudansha.
+Material intermediate mudansha learn to prepare for promotion to advanced mudansha.
 
 ## Physical
 
@@ -48,6 +48,7 @@ correct alignment in techniques. Range of motion and fluidity are more important
 * kizamizuki or uraken, gyakuzuki, maegeri or mawashigeri jiyyugamae
 * kizamizuki or uraken, oizuiki, gyakuzuki jiyyugamae
 * oigyakuzuki, gyakuzuki, maegeri or mawashigeri jiyyugamae
+* kizakizuki step up maegeri or mawashigeri
 
 ### Kata
 
