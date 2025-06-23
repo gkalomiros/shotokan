@@ -20,13 +20,6 @@ New physical material 10th kyu/yellow belt students learn to prepare for promoti
 * inside block from a front stance
 * knife hand block from a back stance
 
-### Combinations
-
-* jab to reverse punch stationary in front stance
-* reverse punch to jab stationary in front stance
-* front kick to lunge punch stepping forward in front stance
-* reverse punch to front kick stepping forward in front stance
-
 ## Kata (Forms)
 
 * Heian Shodan
