@@ -4,11 +4,7 @@ Physical material (previous rank) students learn to prepare for promotion to (ra
 
 ## Kihon
 
-### Tachi Waza
-
 ### Tsuki Waza/Uke Waza/Keri Waza
-
-### Uke Waza
 
 ### Combinations
 

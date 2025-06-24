@@ -15,8 +15,9 @@ performed at a level of competency equal to this level's requirements.
 #### Punches/Strikes/Kicks
 
 * kaiten gyakuzuki zenkutsudachi
-* kaiten ushirogeri or gyakumawashigeri zenkutsudachi
+* kaiten ushirogeri, kagegeri, or uchi mikazukigeri zenkutsudachi
 * shuffling maegeri or mawashigeri zenkutsudachi
+* shuffling yoko keage kibadachi
 * tobi maegeri zenkutsudachi
 * tobi yokogeri kibadachi
 
@@ -28,7 +29,7 @@ performed at a level of competency equal to this level's requirements.
 * off-angle back leg back step kizamizuki gyakuzuki maegeri jiyyugamae
 * switch step kizamizuki maegeri oizuki jiyyugamae
 * kizamizuki shuffle up maegeri jiyyugamae
-* kizami gyakusankaku mawashigeri or yokogeri jiyyugamae
+* kizamizuki gyakusankaku mawashigeri jiyyugamae
 * gyakuzuki sankaku mawashigeri or yokogeri jiyyugamae
 * rear leg first kizamizuki gyakuzuki jiyyugamae
 
