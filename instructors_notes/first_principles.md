@@ -18,6 +18,25 @@ conditioning.
 No technique should be trained in a way that results in undue strain or degredation. In particular, care must be taken
 to avoid chronic problems like joint damage or concussions. This leads to karate ultimately gating itself.
 
+#### Sub-Corollary: How techniques are practiced and classes taught must change with emerging science
+
+How techniques are practiced should not be fixed for the sake of tradition. For example, some old practices, like
+canting the feet and knees inward relative to the direction of movement, and known to be bad for the body. Those
+methods should be discarded and replaced with methods that are in line with modern understanding of how the body is
+meant to be used. For the example, the feet and knees should be aligned with the direction of movement to reduce
+tortional stress on the knee joints.
+
+Likewise, teaching methods and class structure should be adapted as needed when it is shown to lead to better
+outcomes. For example, traditionally, Shotokan classes begin with static stretches to improve flexibility. Modern
+sports science has proven that stretching for flexibility is most effective at the end of a workout and not before.
+Also, that static stretches before exercise can lead to reduced performance. Pre-exercise routines should focus on
+composite movement that warms up the muscles and loosen the joints, like jogging or light calisthenics.
+
+Additionally, it used to be that instruction was peformed by the instructor demonstrating a movement and the students
+doing their best to parrot those movements with the hope that the best students will eventually figure out the details
+on their own. Modern teaching and coaching theory has produced better teaching methods, and shown that presenting
+information using a variety of delivery methods is far more effective.
+
 ### Corollary: Karate Instruction Should Produce Students Capable of Self-Study
 
 Because everybody's bodies, backgrounds, perceptions, and goals are different; people move away; instructors retire;
