@@ -60,6 +60,62 @@ There are caveats:
 
 ### The Skills
 
+* Students need to have critical thinking skills
+* Students need to have a solid base understanding of kinesthetics
+* Students need to have an understanding of basic Shotokan, and even karate history
+* Students need to have an awareness of reputable sources to begin research
+
+A student who understands the human body, especially given a karate context, and has good critical thinking
+skills, should be able to conduct self-guided research in whatever direction their interests take them and be able to
+not fall prey to pseudo-science or false statements. Given enough research, they should feel confident in making their
+karate practice their own, better suited to themselves.
+
 ### Demonstration
 
+Students demonstrate their skills at tests. Of course, the physical portion of an exam gives the student an opportunity
+to demonstrate that they've been able to incorporate their understanding into practice. Written tests are a good method
+for testing knowledge. Q&amp;A style questioning is a good format for examining a student's understanding and critical
+thinking.
+
+The physical examination for the student needs to demonstrate a number of things, and can be done in composite:
+
+* fluency in Shotokan kihon, kata, and kumite
+* demonstration of good kinesthetics
+* demonstration of good self-protection principles
+
 ## Conclusions
+
+An example test might be formatted like this:
+
+1. Written exam (taken and passed prior to physical exam)
+2. Pre-arranged kihon combinations
+3. Free-form kihon combinations
+4. Bag work
+5. Kata and kata applications
+6. Free-form self-defense
+7. Free sparring
+8. Q&amp;A session
+
+A few notes about this sequence:
+
+1. The student should demonstrate good kinesthetics throughout the test, as the student tires, the level to which they
+   have ingrained good or bad habbits will become evident.
+2. The pre-arranged combinations come first because it allows the student to demonstrate their understanding under
+   ideal conditions, while they are still fresh. The student must be able to demonstrate how each combination
+   emphasizes different principles.
+3. The free-form combinations allows the student to demonstrate full fluency in the kihon techniques of Shotokan, and
+   perhaps, which ones the student prefers.
+4. Bag work is critical for demonstrating that the student can actually apply their bodies effectively. Striking the
+   air can easily hide whether or not the student is capable of using their techniques to any real effect.
+5. Of course, the student should be able to demonstrate any and all of the kata in the Shotokan syllabus.
+6. The student should have a designated tokui kata from the syllabus that they've put extra care and research into.
+   The student should have clear visualization of applying the techniques while performing their tokui kata.
+   Intentional, subtle variation in the techniques is expected since the performance should reflect the visualization.
+   The student should be able to demonstrate applications for any section of the form against moderate resistance.
+   Ideally, the student should be familiar with multiple variations of the form, like from other styles, or, at least,
+   how it different historical Shotokan instructors have varied it. Understanding of those variations should inform
+   their applications.
+7. Free-form self-defense allows the student to demonstrate their ability to apply good self-defense principles in real
+   time against a moderately determined opponent.
+8. By this point in the examination, the examiners should be able to come up with tailored questions that challenge the
+   student to explain their karate and demonstrate their ability to think critically through problems presented.
