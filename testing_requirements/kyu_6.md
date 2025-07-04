@@ -15,7 +15,8 @@ formal stances, zenkutsudachi, kibadachi, kokutsudachi, heisokudachi, **kosadach
 
 ### Atemi Waza
 
-* chokuzuki, oizuki, gyakuzuki, kizamizuki, urazuki, **uchi waza (any striking techniques)**
+* chokuzuki, oizuki, gyakuzuki, kizamizuki, urazuki
+* teisho uchi, tettsui uchi, empi uchi, uraken uchi, shihon nukite uchi, **uchi waza (any striking techniques)**
 * mae keage, yoko keage, yoko kekomi, mawashigeri, fumikomigeri, **ushirogeri (back kick stepping backwards)**
 
 ### Ukewaza

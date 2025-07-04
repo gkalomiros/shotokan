@@ -16,8 +16,8 @@ formal stances, zenkutsudachi, kibadachi, kokutsudachi
 ### Atemi Waza
 
 * chokuzuki, oizuki, gyakuzuki, kizamizuki, **urazuki (close punch)**
-* tettsui uchi, **uraken uchi (backfist strike), shihon nukite uchi (spear-hand strike)**
-* mae keage, yoko keage, yoko kekomi, **mawashigeri (round kick)**
+* *teisho uchi*, tettsui uchi, *empi uchi*, **uraken uchi (backfist strike), shihon nukite uchi (spear-hand strike)**
+* mae keage, yoko keage, yoko kekomi, *ushirogeri (standing)*, **mawashigeri (round kick)**
 
 ### Ukewaza
 

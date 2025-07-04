@@ -16,8 +16,8 @@ formal stances, zenkutsudachi, kibadachi, kokutsudachi, **heisokudachi (feet-tog
 ### Atemi Waza
 
 * chokuzuki, oizuki, gyakuzuki, kizamizuki, urazuki
-* tettsui uchi, uraken uchi, shihon nukite uchi, **empi uchi (elbow strike)**
-* mae keage, yoko keage, yoko kekomi, mawashigeri, **ushirogeri (back kick, stationary), fumikomigeri (stomping kick)**
+* *teisho uchi*, tettsui uchi, empi uchi, uraken uchi, shihon nukite uchi
+* mae keage, yoko keage, yoko kekomi, mawashigeri, ushirogeri (stationary), **fumikomigeri (stomping kick)**
 
 ### Ukewaza
 

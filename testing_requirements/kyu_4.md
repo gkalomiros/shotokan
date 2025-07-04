@@ -15,7 +15,8 @@ formal stances, zenkutsudachi, kibadachi, kokutsudachi, heisokudachi, kosadachi
 
 ### Atemi Waza
 
-* chokuzuki, oizuki, gyakuzuki, kizamizuki, urazuki, uchi waza, kagezuki
+* chokuzuki, oizuki, gyakuzuki, kizamizuki, urazuki, kagezuki
+* teisho uchi, tettsui uchi, empi uchi, uraken uchi, shihon nukite uchi, uchi waza
 * mae keage, yoko keage, yoko kekomi, mawashigeri, fumikomigeri, mikazukigeri, kaiten ushirogeri
 
 ### Ukewaza

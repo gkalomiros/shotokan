@@ -16,8 +16,8 @@ formal stances, zenkutsudachi, kibadachi, **kokutsudachi (back stance)**
 ### Atemi Waza (Striking Techniques)
 
 * chokuzuki, oizuki, gyakuzuki, kizamizuki
-* **tettsui uchi (hammer strike)**
-* mae keage, yoko keage, **yoko kekomi (side thrust kick)**
+* ***teisho uchi (palm-heel strikes)*, tettsui uchi (hammer strikes), *empi uchi (elbow strikes)***
+* mae keage, yoko keage, **yoko kekomi (side thrust kick), *ushirogeri (standing back kick)***
 
 ### Ukewaza
 
