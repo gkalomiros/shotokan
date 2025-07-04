@@ -11,17 +11,17 @@ Material that is new compared to the previous rank's requirements have been **bo
 
 ### Tachiwaza
 
-formal stances, zenkutsudachi, kibadachi, kokutsudachi, **heisokudachi (feet-together stance)**
+formal stances, zenkutsudachi, kibadachi, kokutsudachi, *jiyyugamae*, **heisokudachi (feet-together stance)**
 
 ### Atemi Waza
 
-* chokuzuki, oizuki, gyakuzuki, kizamizuki, urazuki
-* *teisho uchi*, tettsui uchi, empi uchi, uraken uchi, shihon nukite uchi
-* mae keage, yoko keage, yoko kekomi, mawashigeri, ushirogeri (stationary), **fumikomigeri (stomping kick)**
+* chokuzuki, oizuki, gyakuzuki, kizamizuki, ~~urazuki~~
+* *teisho uchi*, tettsui uchi, empi uchi, shihon nukite uchi, *shuto uchi*, uraken uchi
+* mae keage, yoko keage, yoko kekomi, mawashigeri, *ushirogeri (stepping backwards)*, **fumikomigeri (stomping kick)**
 
 ### Ukewaza
 
-gedan barai, age uke, soto uke, uchi uke, shuto uke, morote uke, osae uke, **kosa uke (crossing block), tate shuto uke (vertical knife-hand block)**
+gedan barai, age uke, soto uke, uchi uke, shuto uke, morote uke, ~~osae uke~~, **kosa uke (crossing block), tate shuto uke (vertical knife-hand block)**
 
 ### Combinations
 
@@ -33,6 +33,9 @@ gedan barai, age uke, soto uke, uchi uke, shuto uke, morote uke, osae uke, **kos
 * **uke gyakuzuki zenkutsudachi (block to reverse punch front stance)**
 * **shuto uke kokutsudachi gyaku shihon nukite zenkutsudachi (knife hand block back stance reverse spear-hand strike front stance)**
 * **soto uke zenkutsudachi yoko empi kibadachi (outside block front stance elbow strike side stance)**
+* *kizamizuki gyakuzuki jiyyugamae (jab to reverse punch in fighting stance)*
+* *gyakuzuki maegeri jiyyugamae (reverse punch to front kick in fighting stance)*
+* *maegeri kizamizuki jiyyugamae (front kick to jab in fighting stance)*
 
 ## Kata
 

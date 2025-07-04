@@ -11,17 +11,17 @@ Material that is new compared to the previous rank's requirements have been **bo
 
 ### Tachiwaza
 
-formal stances, zenkutsudachi, kibadachi, kokutsudachi, heisokudachi, kosadachi
+formal stances, zenkutsudachi, kibadachi, kokutsudachi, *jiyyugamae*, heisokudachi, kosadachi
 
 ### Atemi Waza
 
-* chokuzuki, oizuki, gyakuzuki, kizamizuki, urazuki, **kagezuki (hook punch)**
-* teisho uchi, tettsui uchi, empi uchi, uraken uchi, shihon nukite uchi, uchi waza
+* chokuzuki, oizuki, gyakuzuki, kizamizuki, ~~urazuki~~, **kagezuki (hook punch)**
+* teisho uchi, tettsui uchi, empi uchi, shihon nukite uchi, shuto uchi, uraken uchi, uchi waza
 * mae keage, yoko keage, yoko kekomi, mawashigeri, fumikomigeri, **uchi/soto mikazukigeri (inside and outside crescent kicks), kaiten ushirogeri (spinning back kick)**
 
 ### Ukewaza
 
-gedan barai, age uke, soto uke, uchi uke, shuto uke, morote uke, osae uke, kosa uke, tate shuto uke, juji uke, kakiwake uke, **haishu uke (back-hand block), manji uke (&#21325;-block)**
+gedan barai, age uke, soto uke, uchi uke, shuto uke, morote uke, ~~osae uke~~, kosa uke, tate shuto uke, juji uke, kakiwake uke, **haishu uke (back-hand block), manji uke (&#21325;-block)**
 
 ### Combinations
 
@@ -35,6 +35,9 @@ gedan barai, age uke, soto uke, uchi uke, shuto uke, morote uke, osae uke, kosa 
 * shuto uke kokutsudachi gyaku shihon nukite zenkutsudachi
 * soto uke zenkutsudachi yoko empi kibadachi
 * **age uke zenkutsudachi ura ashi maegeri (rising block front stance, stationary rear-leg front kick)**
+* *kizamizuki gyakuzuki jiyyugamae (jab to reverse punch in fighting stance)*
+* *gyakuzuki maegeri jiyyugamae (reverse punch to front kick in fighting stance)*
+* *maegeri kizamizuki jiyyugamae (front kick to jab in fighting stance)*
 
 ## Kata
 
