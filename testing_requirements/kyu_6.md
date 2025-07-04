@@ -36,7 +36,7 @@ gedan barai, age uke, soto uke, uchi uke, shuto uke, morote uke, osae uke, kosa 
 
 ## Kata
 
-* Taikyoku Shodan
+* Taikyoku Shodan, *Nidan*
 * Heian Shodan
 * Heian Nidan
 * Heian Sandan

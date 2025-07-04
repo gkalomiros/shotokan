@@ -32,7 +32,7 @@ gedan barai, age uke, soto uke, **uchi uke (inside block), shuto uke (knife-hand
 
 ## Kata
 
-* Taikyoku Shodan
+* Taikyoku Shodan, *Nidan*
 * **Heian Shodan**
 
 ## Kumite

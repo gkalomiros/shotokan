@@ -41,10 +41,11 @@ Material that is new compared to the previous rank's requirements have been **bo
 ## Kata
 
 * Taikyoku Shodan
+* *Taikyoku Nidan*
 
 ## Kumite (Partner Drills)
 
 * gohon kumite jodan oizuki/age uke (5-step sparring, high-level lunge punch attack, rising block defense)
 * gohon kumite chudan oizuki/soto uke (5-step sparring, mid-level lunge punch attack, outside block defense)
 * gohon kumite mae keage/gedan barai (5-step sparring, front snap kick attack, down block defense)
-* basic escape and counter-attack from static wrist and shoulder grabs
+* basic escape and counter-attack from static ~~wrist and shoulder~~ grabs
