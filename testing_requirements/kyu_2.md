@@ -15,13 +15,14 @@ formal stances, zenkutsudachi, kibadachi, kokutsudachi, *jiyyugamae*, ~~heisokud
 
 ### Atemi Waza
 
-* chokuzuki, oizuki, gyakuzuki, kizamizuki, ~~urazuki~~, kagezuki
+* chokuzuki, oizuki, gyakuzuki, kizamizuki, urazuki, kagezuki
 * teisho uchi, tettsui uchi, empi uchi, shihon nukite uchi, shuto uchi, uraken uchi, uchi waza
-* mae keage, yoko keage, yoko kekomi, mawashigeri, ~~fumikomigeri~~, mikazukigeri, kaiten ushirogeri, nami-ashigeri, tobigeri, **shuffle maegeri**
+* mae keage, yoko keage, yoko kekomi, mawashigeri, ~~fumikomigeri~~, mikazukigeri, kaiten ushirogeri, nami-ashigeri, tobigeri
+* **shuffle maegeri**
 
 ### Ukewaza
 
-gedan barai, age uke, soto uke, uchi uke, shuto uke, morote uke, ~~osae uke, kosa uke, tate shuto uke~~, juji uke, kakiwake uke, haishu uke, manji uke
+* gedan barai, age uke, soto uke, uchi uke, shuto uke, morote uke, ~~osae uke, kosa uke, tate shuto uke~~, juji uke, kakiwake uke, haishu uke, manji uke
 
 ### Combinations
 
@@ -37,12 +38,12 @@ gedan barai, age uke, soto uke, uchi uke, shuto uke, morote uke, ~~osae uke, kos
 * soto uke zenkutsudachi yoko empi kibadachi uraken gyakuzuki zenkutsudachi
 * age uke zenkutsudachi ura ashi maegeri gyakuzuki
 * nihongeri maegeri mawashigeri, maegeri yoko kekomi, mawashigeri kaiten ushirogeri, uchi mikazukigeri maegeri, **yoko keage yoko kekomi**
-* **uchi uke zenkutsudachi kizamizuki gyakuzuki**
-* **mawashigeri gyakuzuki zenkutsudachi**
-* **nippon geri (same leg) chudan maegeri jodan maegeri, chudan maegeri jodan mawashigeri, uchi mikazukigeri maegeri**
 * *kizamizuki gyakuzuki jiyyugamae (jab to reverse punch in fighting stance)*
 * *gyakuzuki maegeri jiyyugamae (reverse punch to front kick in fighting stance)*
 * *maegeri kizamizuki jiyyugamae (front kick to jab in fighting stance)*
+* **uchi uke zenkutsudachi kizamizuki gyakuzuki**
+* **mawashigeri gyakuzuki zenkutsudachi**
+* **nippon geri (same leg) chudan maegeri jodan maegeri, chudan maegeri jodan mawashigeri, uchi mikazukigeri maegeri**
 
 ## Kata
 

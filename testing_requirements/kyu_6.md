@@ -11,17 +11,20 @@ Material that is new compared to the previous rank's requirements have been **bo
 
 ### Tachiwaza
 
-formal stances, zenkutsudachi, kibadachi, kokutsudachi, *jiyyugamae*, ~~heisokudachi~~, **kosadachi (cross-legged stance)**
+* formal stances, zenkutsudachi, kibadachi, kokutsudachi, *jiyyugamae*, ~~heisokudachi~~
+* **kosadachi (cross-legged stance)**
 
 ### Atemi Waza
 
 * chokuzuki, oizuki, gyakuzuki, kizamizuki, ~~urazuki~~
-* teisho uchi, tettsui uchi, empi uchi, shihon nukite uchi, shuto uchi, uraken uchi, **uchi waza (any striking techniques)**
+* teisho uchi, tettsui uchi, empi uchi, shihon nukite uchi, shuto uchi, uraken uchi
+* **uchi waza (any striking techniques)**
 * mae keage, yoko keage, yoko kekomi, mawashigeri, ushirogeri (stepping backwards), ~~fumikomigeri~~
 
 ### Ukewaza
 
-gedan barai, age uke, soto uke, uchi uke, shuto uke, morote uke, ~~osae uke, kosa uke, tate shuto uke~~, **juji uke (X-block), kakiwake uke (wedge block)**
+* gedan barai, age uke, soto uke, uchi uke, shuto uke, morote uke, ~~osae uke, kosa uke, tate shuto uke~~
+* **juji uke (X-block), kakiwake uke (wedge block)**
 
 ### Combinations
 
@@ -29,14 +32,14 @@ gedan barai, age uke, soto uke, uchi uke, shuto uke, morote uke, ~~osae uke, kos
 * gyakuzuki kizamizuki zenkutsudachi
 * mae keage oizuki zenkutsudachi
 * gyakuzuki mae keage zenkutsudachi
-* ~~renzuki zenkutsudachi~~
-* **renuchi zenkutsudachi (double-strike front stance)**
-* ~~uke gyakuzuki zenkutsudachi~~
-* ~~shuto uke kokutsudachi gyaku shihon nukite zenkutsudachi~~
-* ~~soto uke zenkutsudachi yoko empi kibadachi~~
 * *kizamizuki gyakuzuki jiyyugamae (jab to reverse punch in fighting stance)*
 * *gyakuzuki maegeri jiyyugamae (reverse punch to front kick in fighting stance)*
 * *maegeri kizamizuki jiyyugamae (front kick to jab in fighting stance)*
+* ~~renzuki zenkutsudachi~~
+* ~~uke gyakuzuki zenkutsudachi~~
+* ~~shuto uke kokutsudachi gyaku shihon nukite zenkutsudachi~~
+* ~~soto uke zenkutsudachi yoko empi kibadachi~~
+* **renuchi zenkutsudachi (double-strike front stance)**
 
 ## Kata
 

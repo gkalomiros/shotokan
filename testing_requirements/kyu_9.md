@@ -11,17 +11,20 @@ Material that is new compared to the previous rank's requirements have been **bo
 
 ### Tachiwaza
 
-formal stances, zenkutsudachi, kibadachi, **kokutsudachi (back stance)**
+* formal stances, zenkutsudachi, kibadachi
+* **kokutsudachi (back stance)**
 
 ### Atemi Waza (Striking Techniques)
 
 * chokuzuki, oizuki, gyakuzuki, kizamizuki
 * ***teisho uchi (palm-heel strikes)*, tettsui uchi (hammer strikes), *empi uchi (elbow strikes)***
-* mae keage, yoko keage, **yoko kekomi (side thrust kick), *ushirogeri (standing back kick)***
+* mae keage, yoko keage
+* **yoko kekomi (side thrust kick), *ushirogeri (standing back kick)***
 
 ### Ukewaza
 
-gedan barai, age uke, soto uke, **uchi uke (inside block), shuto uke (knife-hand block)**
+* gedan barai, age uke, soto uke
+* **uchi uke (inside block), shuto uke (knife-hand block)**
 
 ### Combinations
 

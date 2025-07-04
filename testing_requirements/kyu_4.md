@@ -11,7 +11,7 @@ Material that is new compared to the previous rank's requirements have been **bo
 
 ### Tachiwaza
 
-formal stances, zenkutsudachi, kibadachi, kokutsudachi, *jiyyugamae*, heisokudachi, kosadachi
+formal stances, zenkutsudachi, kibadachi, kokutsudachi, *jiyyugamae*, ~~heisokudachi~~, kosadachi
 
 ### Atemi Waza
 
@@ -21,7 +21,7 @@ formal stances, zenkutsudachi, kibadachi, kokutsudachi, *jiyyugamae*, heisokudac
 
 ### Ukewaza
 
-gedan barai, age uke, soto uke, uchi uke, shuto uke, morote uke, ~~osae uke, kosa uke, tate shuto uke~~, juji uke, kakiwake uke, haishu uke, manji uke
+* gedan barai, age uke, soto uke, uchi uke, shuto uke, morote uke, ~~osae uke, kosa uke, tate shuto uke~~, juji uke, kakiwake uke, haishu uke, manji uke
 
 ### Combinations
 
@@ -29,17 +29,17 @@ gedan barai, age uke, soto uke, uchi uke, shuto uke, morote uke, ~~osae uke, kos
 * gyakuzuki kizamizuki zenkutsudachi
 * mae keage oizuki zenkutsudachi
 * gyakuzuki mae keage zenkutsudachi
-* ~~renzuki/renuchi zenkutsudachi~~
-* **sanzuki zenkutsudachi (triple punch front stance)**
-* ~~uke gyakuzuki/gyaku'uchi zenkutsudachi~~
-* **uke renzuki (block double-punch)**
-* **shuto uke kokutsudachi kizami maegeri gyaku shihon nukite zenkutsudachi (knife-hand block, front-leg front kick, spear-hand strike)**
-* **soto uke zenkutsudachi yoko empi kibadachi uraken gyakuzuki zenkutsudachi (outside block front stance, elbow strike side stance, backfist, reverse punch front stance)**
-* age uke zenkutsudachi ura ashi maegeri
-* **nihongeri maegeri mawashigeri, maegeri yoko kekomi, mawashigeri kaiten ushirogeri, uchi mikazukigeri maegeri (double kicks, alternating legs)**
 * *kizamizuki gyakuzuki jiyyugamae (jab to reverse punch in fighting stance)*
 * *gyakuzuki maegeri jiyyugamae (reverse punch to front kick in fighting stance)*
 * *maegeri kizamizuki jiyyugamae (front kick to jab in fighting stance)*
+* ~~renzuki/renuchi zenkutsudachi~~
+* ~~uke gyakuzuki/gyaku'uchi zenkutsudachi~~
+* age uke zenkutsudachi ura ashi maegeri
+* **sanzuki zenkutsudachi (triple punch front stance)**
+* **uke renzuki (block double-punch)**
+* **shuto uke kokutsudachi kizami maegeri gyaku shihon nukite zenkutsudachi (knife-hand block, front-leg front kick, spear-hand strike)**
+* **soto uke zenkutsudachi yoko empi kibadachi uraken gyakuzuki zenkutsudachi (outside block front stance, elbow strike side stance, backfist, reverse punch front stance)**
+* **nihongeri maegeri mawashigeri, maegeri yoko kekomi, mawashigeri kaiten ushirogeri, uchi mikazukigeri maegeri (double kicks, alternating legs)**
 
 ## Kata
 

@@ -17,7 +17,8 @@ formal stances, zenkutsudachi, kibadachi, kokutsudachi, *jiyyugamae*, ~~heisokud
 
 * chokuzuki, oizuki, gyakuzuki, kizamizuki, urazuki, kagezuki
 * teisho uchi, tettsui uchi, empi uchi, shihon nukite uchi, shuto uchi, uraken uchi, uchi waza
-* mae keage, yoko keage, yoko kekomi, mawashigeri, ~~fumikomigeri~~, mikazukigeri, kaiten ushirogeri, **nami-ashigeri, tobigeri**
+* mae keage, yoko keage, yoko kekomi, mawashigeri, ~~fumikomigeri~~, mikazukigeri, kaiten ushirogeri
+* **nami-ashigeri, tobigeri**
 
 ### Ukewaza
 
@@ -35,11 +36,11 @@ gedan barai, age uke, soto uke, uchi uke, shuto uke, morote uke, ~~osae uke, kos
 * uke renzuki
 * shuto uke kokutsudachi kizami maegeri gyaku shihon nukite zenkutsudachi
 * soto uke zenkutsudachi yoko empi kibadachi uraken gyakuzuki zenkutsudachi
-* **age uke zenkutsudachi ura ashi maegeri gyakuzuki**
 * nihongeri maegeri mawashigeri, maegeri yoko kekomi, mawashigeri kaiten ushirogeri, uchi mikazukigeri maegeri
 * *kizamizuki gyakuzuki jiyyugamae (jab to reverse punch in fighting stance)*
 * *gyakuzuki maegeri jiyyugamae (reverse punch to front kick in fighting stance)*
 * *maegeri kizamizuki jiyyugamae (front kick to jab in fighting stance)*
+* **age uke zenkutsudachi ura ashi maegeri gyakuzuki**
 
 ## Kata
 
