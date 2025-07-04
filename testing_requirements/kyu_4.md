@@ -17,11 +17,11 @@ formal stances, zenkutsudachi, kibadachi, kokutsudachi, *jiyyugamae*, heisokudac
 
 * chokuzuki, oizuki, gyakuzuki, kizamizuki, ~~urazuki~~, kagezuki
 * teisho uchi, tettsui uchi, empi uchi, shihon nukite uchi, shuto uchi, uraken uchi, uchi waza
-* mae keage, yoko keage, yoko kekomi, mawashigeri, fumikomigeri, mikazukigeri, kaiten ushirogeri
+* mae keage, yoko keage, yoko kekomi, mawashigeri, ~~fumikomigeri~~, mikazukigeri, kaiten ushirogeri
 
 ### Ukewaza
 
-gedan barai, age uke, soto uke, uchi uke, shuto uke, morote uke, ~~osae uke~~, kosa uke, tate shuto uke, juji uke, kakiwake uke, haishu uke, manji uke
+gedan barai, age uke, soto uke, uchi uke, shuto uke, morote uke, ~~osae uke, kosa uke, tate shuto uke~~, juji uke, kakiwake uke, haishu uke, manji uke
 
 ### Combinations
 
@@ -29,9 +29,9 @@ gedan barai, age uke, soto uke, uchi uke, shuto uke, morote uke, ~~osae uke~~, k
 * gyakuzuki kizamizuki zenkutsudachi
 * mae keage oizuki zenkutsudachi
 * gyakuzuki mae keage zenkutsudachi
-* renzuki/renuchi zenkutsudachi
+* ~~renzuki/renuchi zenkutsudachi~~
 * **sanzuki zenkutsudachi (triple punch front stance)**
-* uke gyakuzuki/gyaku'uchi zenkutsudachi
+* ~~uke gyakuzuki/gyaku'uchi zenkutsudachi~~
 * **uke renzuki (block double-punch)**
 * **shuto uke kokutsudachi kizami maegeri gyaku shihon nukite zenkutsudachi (knife-hand block, front-leg front kick, spear-hand strike)**
 * **soto uke zenkutsudachi yoko empi kibadachi uraken gyakuzuki zenkutsudachi (outside block front stance, elbow strike side stance, backfist, reverse punch front stance)**

@@ -11,17 +11,17 @@ Material that is new compared to the previous rank's requirements have been **bo
 
 ### Tachiwaza
 
-formal stances, zenkutsudachi, kibadachi, kokutsudachi, *jiyyugamae*, heisokudachi, kosadachi
+formal stances, zenkutsudachi, kibadachi, kokutsudachi, *jiyyugamae*, ~~heisokudachi~~, kosadachi
 
 ### Atemi Waza
 
 * chokuzuki, oizuki, gyakuzuki, kizamizuki, urazuki, kagezuki
 * teisho uchi, tettsui uchi, empi uchi, shihon nukite uchi, shuto uchi, uraken uchi, uchi waza
-* mae keage, yoko keage, yoko kekomi, mawashigeri, fumikomigeri, mikazukigeri, kaiten ushirogeri, **nami-ashigeri, tobigeri**
+* mae keage, yoko keage, yoko kekomi, mawashigeri, ~~fumikomigeri~~, mikazukigeri, kaiten ushirogeri, **nami-ashigeri, tobigeri**
 
 ### Ukewaza
 
-gedan barai, age uke, soto uke, uchi uke, shuto uke, morote uke, ~~osae uke~~, kosa uke, tate shuto uke, juji uke, kakiwake uke, haishu uke, manji uke
+gedan barai, age uke, soto uke, uchi uke, shuto uke, morote uke, ~~osae uke, kosa uke, tate shuto uke~~, juji uke, kakiwake uke, haishu uke, manji uke
 
 ### Combinations
 
