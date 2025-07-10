@@ -1,49 +1,42 @@
 # 10th Kyu/Yellow Belt Curriculum
 
-Physical material 10th kyu/yellow belt students learn to prepare for promotion to 9th kyu/1st blue belt. New materials
-are in **bold**.
+## Overall
 
-## Kihon (Basics)
+This is new material 10th kyu/yellow belt students learn to prepare for promotion to 9th kyu/1st blue belt.
+Previous material is expected to be refined because this and future material will build upon past material.
 
-### Stances/Footwork
+## Physical Material
 
-* front stance, side stance
-* stepping forward and backwards in front stance
-* turning left, right, and around in a front stance using either the front foot or rear foot
-* stepping side to side in side stance
-* **back stance**
-* **stepping forward and backwards and turning in back stance**
+### Kihon (Basics)
 
-### Punches/Strikes/Kicks
+#### Stances/Footwork
 
-* straight punch from side stance
-* lunge punch, reverse punch, and jab from front stance
-* front kick stepping forward in stance
-* side snap kick stepping sideways in side stance
-* **palm heel, hammer fist, and elbow strikes from a front stance**
-* **side thrust kick stepping sideways in side stance**
-* **back kick stationary in natural stance**
+* back stance
 
-### Blocks
+#### Punches, Blocks, Kicks, and Strikes
 
-* rising, outside, and downward blocks moving forward and back in front stance
-* **inside block from a front stance**
-* **knife hand block from a back stance**
+* inside block (front stance)
+* side thrust kick (side stance) and back kick (stationary without stance)
+* palm heel, hammer fist, and elbow strikes (front stance)
 
-### Combinations
+#### Combinations
 
-* jab to reverse punch stationary in front stance
-* reverse punch to jab stationary in front stance
-* front kick to lunge punch stepping forward in front stance
-* reverse punch to front kick stepping forward in front stance
+* *no new material*
 
-## Kata (Forms)
+### Kata (Forms)
 
-* Taikyoku Shodan
-* Taikyoku Nidan
-* **Heian Shodan**
+* Taikyoku Sandan
 
-## Kumite (Partner Drills)
+### Kumite (Partner Drills)
 
-* 5-step sparring with head-high and middle-level lunge punches and front kicks
-* simple statics grabs and escapes
+* applying and escaping from static grabs: hair, chokes, headlocks, and bear hugs
+
+## Social Material
+
+No new material is presented, but students should be aware that as they progress, they increasingly become
+role-models for good behavior in the dojo to junior students.
+
+## Scholastic Material
+
+Additional scholastic material about Shotokan karate is provided in handouts and ad-hoc during classes. Students
+should continue keeping a training journal.

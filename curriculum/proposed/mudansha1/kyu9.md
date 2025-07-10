@@ -1,53 +1,44 @@
 # 9th Kyu/1st Blue Belt Curriculum
 
-Physical material 9th kyu/1st blue belt students learn to prepare for promotion to 8th kyu/2nd blue belt.
+## Overall
 
-## Kihon (Basics)
+This is new material 9th kyu/1st blue belt students learn to prepare for promotion to 8th kyu/2nd blue belt.
+All previous material is expected to be refined because this and future material will build upon past material.
 
-### Stances/Footwork
+## Physical Material
 
-* front stance, side stance, back stance
-* stepping forward and backwards and turning in front and back stances
-* stepping side to side in side stance
-* **fighting stance**
-* **shuffling forward and stepping forward in fighting stance**
+### Kihon (Basics)
 
-### Punches/Strikes/Kicks
+#### Stances/Footwork
 
-* straight punch from side stance
-* lunge punch, reverse punch, and jab from front stance
-* palm heel, hammer fist, and elbow strikes from a front stance
-* front kick stepping forward in stance
-* side snap kick or side thrust kick stepping sideways in side stance
-* back kick stationary in natural stance
-* **spear hand, knife hand, and back fist strikes from a front stance**
-* **round kick stepping forward in front stance**
-* **back kick stepping backwards in front stance**
+* fighting stance
 
-### Blocks
+#### Punches, Blocks, Kicks, and Strikes
 
-* rising, inside, outside, and downward blocks from front stance
-* knife hand block from back stance
-* **augmented block from front stance or back stance**
+* knife-hand block (back stance)
+* round kick (front stance) and back kick (stepping backwards in front stance)
+* spear hand, knife hand, and back fist strikes (front stance)
 
-### Combinations
+#### Combinations
 
-* jab to reverse punch stationary in front stance
-* reverse punch to jab stationary in front stance
-* front kick to lunge punch stepping forward in front stance
-* reverse punch to front kick stepping forward in front stance
-* **jab to reverse punch in fighting stance**
-* **reverse punch to front kick in fighting stance**
-* **front kick to jab in fighting stance**
+* jab to reverse punch (fighting stance)
+* reverse punch to front kick (fighting stance)
+* front kick to jab (fighting stance)
 
-## Kata (Forms)
+### Kata (Forms)
 
-* Taikyoku Shodan
-* Taikyoku Nidan
 * Heian Shodan
-* **Heian Nidan**
 
-## Kumite (Partner Drills)
+### Kumite (Partner Drills)
 
-* 5-step sparring with head-high and middle-level lunge punches and front kicks
-* simple statics grabs and escapes
+* *no new material*
+
+## Social Material
+
+No new material is presented, but students should be aware that as they progress, they increasingly become
+role-models for good behavior in the dojo to junior students.
+
+## Scholastic Material
+
+Additional scholastic material about Shotokan karate is provided in handouts and ad-hoc during classes. Students
+should continue keeping a training journal.
