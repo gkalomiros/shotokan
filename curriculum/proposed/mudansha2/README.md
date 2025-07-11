@@ -1,10 +1,20 @@
 # Intermediate Mudansha Curriculum
 
-Material intermediate mudansha learn to prepare for promotion to advanced mudansha.
+## Overall
+
+This is the material intermediate mudansha learn and be able to demonstrate preparedness for the advanced mudansha
+curriculum. Having demonstrated comfort and familiarity with the foundational movements, students begin to shift their
+focus away from "acquiring" new techniques and improving the "quality" of their movements. At this level, the focus is
+on maintaining correct posture and joint alignment, at first while stationary, and then while in motion.
+
+Students should be able to absorb this material in about a year of consistant practice. Students with experience with
+natural movement practices, like Tai Chi, Yoga, or Feldenkrais Method may have an easier time with the material than
+others. While students should be encouraged to begin applying movements with more speed and power, it is critical to
+keep in mind that, during training, it is secondary to maintaining quality of movement.
 
 ## Physical
 
-To be eligible for promotion to intermediate mudansha, students must be ready and able to perform any of the following
+To be eligible for promotion to advanced mudansha, students must be ready and able to perform any of the following
 physical requirements on demand. Confidence and familiarity with the requirements; proper posture; proper hip,
 shoulder, knee, and elbow alignment; responsiveness to instructions (hai/ossu); and strong spirit (kiai) are critical.
 Speed and power are minor considerations at this level but should not prevent students from promotion. All material
@@ -15,63 +25,58 @@ to this level's requirements.
 
 #### Stances/Footwork
 
-* nekoashi and kosa tachi
-* stepping forward in kosadachi and backwards in nekoashidachi
-* turning in new stances, pivoting on either the front or rear foot
-* shifting side to side in kibadachi
-* shifting from stance to stance in place
+Students must be familiar with the auxiliary Shotokan stances (cross-legged, cat-legged, L-shaped, closed feet). They
+should be able to move freely while stepping or turning, and be able to comfortably shift from one stance to another.
 
-#### Punches/Strikes/Kicks
+#### Punches, Blocks, Kicks, and Strikes
 
-* ura and tate tsuki zenkutsudachi
-* kagezuki kibadachi
-* oigyakuzuki jiyyugamae
-* hiraken, ippon nukide, nihon nukide, haito, kumade, washide, and koko uchiwaza
-* kage, uchimawashi, soto mikazuki, uchi mikazuki, and kaiten ushiro keriwaza
+Students learn auxiliary, but still common Shotokan punches (close, vertical fist, stepping reverse), blocks (crossing,
+X-shaped, wedge, pressing hand, back hand, and verical knife-hand), kicks (crescent, hook, inside round), and strikes.
+They should be able to freely demonstrate them in kihon, even switching between techniques of a type ad hoc while
+maintaining good form.
 
-#### Blocks
+#### Combination Movements
 
-* kosa, juji, kakiwake, osaede, haishu, and tate shuto ukewaza
-
-#### Combinations
-
-These combinations are meant to allow the student to demonstrate familiarity with the core techniques, proper posture, and
-correct alignment in techniques. Range of motion and fluidity are more important that speed or power.
-
-* nihon and sanbon tsukiwaza, uchiwaza, and ukewaza moving forward and backwards in stance (minimal variation expected)
-* keriwaza to tsukiwaza, uchiwaza, and ukewaza and tsukiwaza, uchiwaza, and ukewaza to keriwaza moving forward in zenkutsudachi
-* alternating leg double kicks moving forward in front stance
-* shutouke kokutsudachi, kizami maegeri, gyakuzuki zenkutsudachi
-* sotouke zenkusudachi, yoko empi kibadachi, kizami uraken gyakuzuki zenkutsudachi
-* ageuke ura ashi maegeri zenkutsudachi
-* kizamizuki or uraken, gyakuzuki, maegeri or mawashigeri jiyyugamae
-* kizamizuki or uraken, oizuiki, gyakuzuki jiyyugamae
-* oigyakuzuki, gyakuzuki, maegeri or mawashigeri jiyyugamae
-* kizamizuki step up maegeri or mawashigeri jiyyugamae
+Students begin performing techniques in doubles, either pre-arranged for free-form. Focus should be placed on
+demonstrating familiarity with the techniques and demonstrating proper posture and aligntment for both lead side and
+reverse form movements. Again, speed and power, while encouraged, are not the emphasis yet. For some, extra effort may
+be needed to improve range of motion in the hips, legs, and ankles.
 
 ### Kata
 
-* Heian Sandan
-* Heian Yondan
-* Heian Godan
-* Tekki Shodan
+Students learn the remaining beginner level kata: Heian Sandan, Heian Yondan, Heian Godan, and Tekki Shodan. The Tekki
+kata is introduced as it was the traditional first form learned by students in Shuri and Tomari before the creation of
+the Heian kata.
 
 ### Kumite
 
-At this level, both uke and tori are graded for intent and effectiveness
+Students continue to practice formalized kumite. For familiar drills, focus needs to be placed in improving intention,
+distancing, targeting, and footwork while maintaining proper, and improving, form.
 
-* kihon ippon kumite jodan oizuki, chudan oizuki, maegeri, mawashigeri, and kaiten ushirogeri
-* single grabs and escapes from static positions
+Students by this level should also be introduced to simple free-form sparring exercises. Emphasis in these drills
+should be on skills development rather than direct competition.
+
+In grab and escape exercises, students should begin branching out in types of grabs attempted, and methods of escape.
+Grabs should emphasize control of the target and/or disruption of balance. Escapes should demonstrate correct use of
+posture, alignment, positioning, and variation of counter attacks both in technique and effective targets. Escapes
+should always avoid strength vs strength situations.
 
 ## Social
 
 Students must be familiar with and demonstrate proper day to day etiquette in the dojo, be responsive to instructions,
-and demonstrate spririt and enthusiasm. Students should, unless specifically excepted, have consistent and timely
-attendence and have been training for at least a year since being promoted to intermediate mudansha.
+and demonstrate spririt and enthusiasm. Students should begin taking part in basic leadership duties within the dojo,
+such as leading warmups, and walking junior students through learning new techniques and kata.
+
+Students should be encouraged to attend, even if not participating, at local events and tournaments when available.
+Awareness of proper etiquette at special events should be learned.
+
+Students must, unless specifically excepted, have consistent and timely attendence and have been training for at least
+a year since being promoted to intermediate mudansha before seeking promotion to advanced mudansha.
 
 ## Mental
 
-Students are required to take and pass a written exam that demonstrates:
+Students must learn the Japanese vocabulary, as typically used in Shotokan, for techniques learned. In order to be
+promoted to advanced mudansha, students must pass a written exam that demonstrates:
 
 * Japanese vocabulary for common terminology used in the dojo or at tournaments
 * Knowledge of general Shotokan trivia such as lineages, organizations, titles, etiquette, and symbology
