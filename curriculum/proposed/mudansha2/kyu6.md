@@ -1,56 +1,43 @@
 # 6th Kyu/2nd Green Belt Curriculum
 
-Physical material 6th kyu/2nd green belt students learn to prepare for promotion to 5th kyu/1st purple belt.
+## Overall
 
-## Kihon
+This is new material 6th kyu/2st green belt students learn to prepare for promotion to 5th kyu/1st purple belt.
+All previous material is expected to be refined because this and future material will build upon past material.
 
-### Tachi Waza
+## Physical Material
 
-* zenkutsudachi, kibadachi, kokutsudachi, jiyyugamae
-* stepping forward and backwards and turning from zenkutsudachi or kokutsudachi
-* stepping side to side in kibadachi
-* shuffling forward and stepping forward in jiyyugamae
-* **kosadachi**
+### Kihon
 
-### Tsuki Waza/Uke Waza/Keri Waza
+#### Stances/Footwork (Tachi Waza)
 
-* chokuzuki, oizuki, gyakuzuki, kizamizuki, tatezuki, and urazuki
-* teisho, tettsui, empi, (shihon) nukite, shuto, and uraken uchiwaza
-* maegeri, mawashigeri, yokokeage, yokokekomi
-* **kaiten ushirogeri**
+* cross-legged stance (kosadachi) moving forward, and cat-legged stance (neko-ashi dachi) moving backwards
 
-### Uke Waza
+#### Punches (Tsuki Waza), Blocks (Uke Waza), Kicks (Keri Waza), and Strikes (Uchi Waza)
 
-* age uke, uchi uke, soto uke, gedan barai, shuto uke, morote uke, kosa uke, tate shuto uke
-* **juji uke, kakiwake uke**
+* X-block (juji uke), wedge block (kakiwake uke)
+* spinning back kick (kaiten ushirogeri)
 
-### Combinations
+#### Combinations
 
-* kizamizuki, gyakuzuki zenkutsudachi
-* gyakuzuki, kizamizuki zenkutsudachi
-* maegeri, oizuki zenkutsudachi
-* gyakuzuki, maegeri zenkutsudachi
-* kizamizuki, gyakuzuki jiyyugamae
-* gyakuzuki, maegeri jiyyugamae
-* maegeri, kizamizuki jiyyugamae
-* renzuki zenkutsudachi
-* oizuki, gyaku uke waza zenkutsudachi
-* kizamitsuki **or uraken**, gyakuzuki, maegeri **or mawashigeri** jiyyugamae
-* kizamitsuki **or uraken**, oizuki, gyakuzuki jiyyugamae
-* **shutuke kokutsudachi gyaku nukite zenkutsudachi**
-* **soto uke zenkutsudachi yoko empi kibadachi**
+* backfist, reverse punch, front kick in fighting stance (uraken gyakuzuki jiyyugamae)
+* backfist, lunge punch, reverse punch in fighting stance (uraken oizuki gyakuzuki jiyyugamae)
+* knife-hand block back stance, reverse spear hand front stance (shuto uke kokutsudachi gyaku shihon nukite zenkutsudachi)
+* outside block front stance, elbow strike side stance (soto uke zenkutsudachi yoko empi kibadachi)
 
-## Kata
+### Kata
 
-* Taikyoku Shodan
-* Taikyoku Nidan
-* Heian Shodan
-* Heian Nidan
-* Heian Sandan
-* **Heian Yondan**
+* Heian Yondan
 
-## Kumite
+### Kumite
 
-* 5-step sparring with head-high and middle-level lunge punches and front kicks
-* simple statics grabs and escapes
-* kihon ippon kumite jodan oizuki, chudan oizuki, maegeri, mawashigeri, **kaiten ushirogeri**
+* add spinning back kick to 1-step sparring (ippon kihon kumite kaiten ushirogeri)
+
+## Social Material
+
+No new material, but students should continue to participate in, or at least attend, local special events.
+
+## Scholastic Material
+
+There is no new scholastic material, but students should continue reading introductory Shotokan texts and maintain
+their training journals.

@@ -77,7 +77,7 @@ and how to bow, and what to do when arriving late. They must be responsive to in
 enthusiasm. Students should, unless specifically excepted, have consistent and timely attendence and have been training
 for at least a year.
 
-## Mental
+## Scholastic
 
 Students must be able to identify their dojo, style, and instructors. Students should have basic knowledge of Shotokan
 and the dojo curriculum. Ideally, students keep a training journal which can be reviewed by the chief instructor. At

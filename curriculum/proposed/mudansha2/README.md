@@ -73,10 +73,13 @@ Awareness of proper etiquette at special events should be learned.
 Students must, unless specifically excepted, have consistent and timely attendence and have been training for at least
 a year since being promoted to intermediate mudansha before seeking promotion to advanced mudansha.
 
-## Mental
+## Scholastic
 
-Students must learn the Japanese vocabulary, as typically used in Shotokan, for techniques learned. In order to be
-promoted to advanced mudansha, students must pass a written exam that demonstrates:
+Students must learn the Japanese vocabulary, as typically used in Shotokan, for techniques learned. They should
+continue to maintain a training journal. Also, they should begin reading introductory Shotokan books, especially those
+by Funakoshi, Nakayama, and Nishiyama.
+
+In order to be promoted to advanced mudansha, students must pass a written exam that demonstrates:
 
 * Japanese vocabulary for common terminology used in the dojo or at tournaments
 * Knowledge of general Shotokan trivia such as lineages, organizations, titles, etiquette, and symbology

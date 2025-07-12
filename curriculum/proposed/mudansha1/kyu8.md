@@ -29,3 +29,13 @@ All previous material is expected to be refined because this and future material
 ## Kumite (Partner Drills)
 
 * *no new material*
+
+## Social Material
+
+No new material is presented, but students should be aware that as they progress, they increasingly become
+role-models for good behavior in the dojo to junior students.
+
+## Scholastic Material
+
+Additional scholastic material about Shotokan karate is provided in handouts and ad-hoc during classes. Students
+should continue keeping a training journal.

@@ -1,58 +1,58 @@
 # 5th Kyu/1st Purple Belt Curriculum
 
-Physical material 5th kyu/1st purple belt students learn to prepare for promotion to 4th kyu/2nd purple belt.
+## Overall
 
-## Kihon
+This is new material 5th kyu/1st purple belt students learn to prepare for promotion to 4th kyu/2nd purple belt.
+All previous material is expected to be refined because this and future material will build upon past material.
 
-### Tachi Waza
+## Physical Material
 
-* zenkutsudachi, kibadachi, kokutsudachi, kosadachi, jiyyugamae
-* stepping forward and backwards and turning from zenkutsudachi or kokutsudachi
-* stepping side to side in kibadachi
-* shuffling forward and stepping forward in jiyyugamae
-* **nekoashidachi**
-* **moving forward to kosadachi and moving backwards to nekoashidachi**
+### Kihon
 
-### Tsuki Waza/Uke Waza/Keri Waza
+#### Tachi Waza
 
-* chokuzuki, oizuki, gyakuzuki, kizamizuki, tatezuki, and urazuki
-* teisho, tettsui, empi, (shihon) nukite, shuto, and uraken uchiwaza
-* maegeri, mawashigeri, yokokeage, yokokekomi, kaiten ushirogeri
-* **kagezuki kokutsudachi or kibadachi**
-* **hiraken, ippon nukide, nihon nukide, haito, kumade, washide, and koko uchi**
-* **uchi mikazukigeri, soto mikazukigeri**
+* *no new material*
 
-### Uke Waza
+#### Tsuki Waza/Uke Waza/Keri Waza/Uchi Waza
 
-* age uke, uchi uke, soto uke, gedan barai, shuto uke, tate shuto uke
-* morote uke, kosa uke, kakiwake uke, juji uke
-* **osaede uke, haishu uke**
+* kagezuki (hook punch) kibadachi or kokutsudachi
+* osae te (pressing hand block), haishu uke (back hand block)
+* uchi mikazukigeri (inside crescent kick), soto mikazukigeri (outside crescent kick)
+* hiraken (fore-knuckle fist), ippon nukide (single-finger spear), nihon nukide (two-finger spear), haito (ridge hand),
+  kumade (bear hand), washide (eagle claw), and koko (tiger mouth)
 
-### Combinations
+#### Combinations
 
-* kizamizuki, gyakuzuki jiyyugamae
-* gyakuzuki, maegeri jiyyugamae
-* maegeri, kizamizuki jiyyugamae
-* kizamitsuki or uraken, gyakuzuki, maegeri or mawashigeri jiyyugamae
-* kizamitsuki or uraken, oizuki, gyakuzuki jiyyugamae
-* shutuke kokutsudachi, **kizami maegeri**, gyaku nukite zenkutsudachi
-* soto uke zenkutsudachi, yoko empi kibadachi, **uraken gyakuzuki zenkutsudachi**
-* **age uke zenkutsudachi ura ashi maegeri**
-* **nihon tsukiwaza, uchiwaza, and ukewaza**
-* **keriwaza to tsukiwaza, uchiwaza, and ukewaza and tsukiwaza, uchiwaza, and ukewaza to keriwaza**
+* shutuke kokutsudachi, kizami maegeri (lead-leg front kick), gyaku nukite zenkutsudachi
+* soto uke zenkutsudachi, yoko empi kibadachi, uraken gyakuzuki zenkutsudachi
+* age uke zenkutsudachi ura ashi maegeri (stationary back leg front kick)
+* nihon tsukiwaza, uchiwaza, and ukewaza (double techniques in any combination)
+* keriwaza to tsukiwaza, uchiwaza, and ukewaza (any stepping kick landing with any punch, strike, or block)
+* tsukiwaza, uchiwaza, and ukewaza to keriwaza (any punch, strike, or block followed by any stepping kick)
+* oigyakuzuki (lunging reverse punch), gyakuzuki jiyyugamae
 
-## Kata
+### Kata
 
-* Taikyoku Shodan
-* Taikyoku Nidan
-* Heian Shodan
-* Heian Nidan
-* Heian Sandan
-* Heian Yondan
-* **Heian Godan**
+* Heian Godan
 
-## Kumite
+### Kumite
 
-* 5-step sparring with head-high and middle-level lunge punches and front kicks
-* simple statics grabs and escapes
-* kihon ippon kumite jodan oizuki, chudan oizuki, maegeri, mawashigeri, kaiten ushirogeri
+* *no new material*
+
+## Social Material
+
+Purple belt students should begin taking basic leadership roles in the dojo, such as leading class warm-ups and
+introducing new techniques and kata to yellow and blue belts. When teaching, it is important to keep in mind that
+junior students have a different focus than intermediate students.
+
+## Scholastic Material
+
+Students should continue maintaining a journal. Books read, seminars attended, and tournaments competed in are all
+excellent sources for note taking. Once the introductory Shotokan books have been read, it is recommended that
+students also read the texts by Nakayama and Nishiyama (the two JKA founders that wrote books).
+
+Beginning at 1st purple, all students are required to take and pass a written examination before being allowed to
+take the physical examination. For purple belts, the exam focuses primarily on Japanese vocabulary.
+
+Additionally, beginning with the test for 2nd purple, all examinations will be conducted using only Japanese
+terminology.

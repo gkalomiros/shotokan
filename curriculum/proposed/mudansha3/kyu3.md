@@ -11,6 +11,7 @@ Physical material 3rd kyu/1st brown belt students learn to prepare for promotion
 
 ### Combinations
 
+* **triples**
 * **nidan keriwaza zenkutsudachi, same leg: maegeri, maegeri; maegeri, mawashigeri; mawashigeri, yoko kekomi; mawashigeri, ushirogeri**
 * **kizamizuki shuffle up maegeri or mawashigeri**
 
