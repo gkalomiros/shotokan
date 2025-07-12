@@ -16,7 +16,7 @@ All previous material is expected to be refined because this and future material
 #### Tsuki Waza/Uke Waza/Keri Waza/Uchi Waza
 
 * kagezuki (hook punch) kibadachi or kokutsudachi
-* osae te (pressing hand block), haishu uke (back hand block)
+* haishu uke (back hand block)
 * uchi mikazukigeri (inside crescent kick), soto mikazukigeri (outside crescent kick)
 * hiraken (fore-knuckle fist), ippon nukide (single-finger spear), nihon nukide (two-finger spear), haito (ridge hand),
   kumade (bear hand), washide (eagle claw), and koko (tiger mouth)
