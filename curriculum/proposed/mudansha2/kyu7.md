@@ -21,7 +21,7 @@ will build upon past material.
   **close punch (urazuki), vertical fist punch (tatezuki)**
 * rising block (age uke), downward block (gedan barai), outside block (soto uke), inside block (uchi uke),
   knife-hand block (shuto uke), augmented block (morote uke), **crossing block (kosa uke),**
-  **vertical knife hand block (tate shuto uke)**
+  **vertical knife hand block (tate shuto uke), pressing hand blocks (osae te uke)**
 * front kick (maegeri or mae keage), side snap kick (yoko keage), side thrust kick (yoko kekomi),
   round kick (mawashigeri), back kick (ushirogeri)
 * palm heel strike (teisho uchi), hammer fist (tettsui uchi), elbow strikes (empi uchi), spear hand (shihon nukite),
