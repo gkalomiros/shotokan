@@ -37,7 +37,7 @@ All previous material is expected to be refined because this and future material
 
 ### Kumite
 
-* *no new material*
+* Applying counter-grabs and/or throws against static grabs
 
 ## Social Material
 

@@ -4,6 +4,8 @@
 
 This is new material 8th kyu/2st blue belt students learn to prepare for promotion to 7th kyu/1st green belt.
 All previous material is expected to be refined because this and future material will build upon past material.
+As the last rank before transitioning to the intermediate level, the new material is relatively light so that
+students can focus on refinement.
 
 ## Physical Material
 
