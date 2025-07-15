@@ -2,7 +2,7 @@
 
 ## Overall
 
-This is the material beginning students should learn and be able to demonstrate in preparation for the intermediate
+This is the material beginning students should learn and must demonstrate to show preparedness for the intermediate
 curriculum. The main goal at this stage is in devleoping familiarity with the foundational practices and materials.
 Technical ability, speed, and power, while taught, are not required for promotion at this stage. Comfort with the
 material is most important so that students can begin the process of focusing on how and why things techniques are

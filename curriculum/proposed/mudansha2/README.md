@@ -2,7 +2,7 @@
 
 ## Overall
 
-This is the material intermediate mudansha learn and be able to demonstrate preparedness for the advanced mudansha
+This is the material intermediate mudansha learn and must demonstrate to show preparedness for the advanced mudansha
 curriculum. Having demonstrated comfort and familiarity with the foundational movements, students begin to shift their
 focus away from "acquiring" new techniques and improving the "quality" of their movements. At this level, the focus is
 on maintaining correct posture and joint alignment, at first while stationary, and then while in motion.

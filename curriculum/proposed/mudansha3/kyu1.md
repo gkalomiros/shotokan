@@ -18,6 +18,16 @@ Physical material 1st kyu/3rd brown belt students learn to prepare for promotion
 * **kizami gyakusankaku mawashigeri**
 * **gyakuzuki sankaku mawashigeri or yoko kekomi**
 
+* sanbon waza, fluid variaty of techniques, stances, and footwork is expected
+* nidangeri waza zenkutsudachi, same leg kicking
+* perched maegeri, mawashigeri, yokokeage, ushigeri; gokai
+* off-angle back leg back step kizamizuki gyakuzuki maegeri jiyyugamae
+* switch step kizamizuki maegeri oizuki jiyyugamae
+* kizamizuki shuffle up maegeri jiyyugamae
+* kizamizuki gyakusankaku mawashigeri jiyyugamae
+* gyakuzuki sankaku mawashigeri or yokogeri jiyyugamae
+* rear leg first kizamizuki gyakuzuki jiyyugamae
+
 ## Kata
 
 * **all** of: Bassai Dai, Empi, Jion, or Kanku Dai
