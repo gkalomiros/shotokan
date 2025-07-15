@@ -49,7 +49,7 @@ will build upon past material.
 ### Kumite
 
 * 5-step sparring with head-high and middle-level lunge punches and front kicks (gohon kumite jodanzuki, chudanzuki, maegeri)
-* simple statics grabs and escapes
+* simple static grabs and escapes
 * **1-step sparring with head-high and middle-level lunge punches, front kicks, and round kicks (ippon kihon kumite jodanzuki, chudanzuki, maegeri, mawashigeri)**
 
 ## Social Material

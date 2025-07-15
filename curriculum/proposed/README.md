@@ -40,7 +40,7 @@ material is appropriate for each rank, but also what the student should be gaini
 
 * **Physical:** Introduction to elementary single techniques, kata, and simple partner drills.
 * **Social:** Introduction to dojo etiquette.
-* **Mental:** Basics of dojo, organization, and Shotokan history. Understanding of curriculum overview.
+* **Scholastic:** Basics of dojo, organization, and Shotokan history. Understanding of curriculum overview.
 
 Beginner students should spend most of their time learning how to behave in the dojo and familiarizing themselves with
 elementary kihon techniques, the first few kata, and basic partner drills like gohon kumite and simple grab-defense.
@@ -69,7 +69,7 @@ and determine if this is the right kind of school for them.
   auxiliary single techniques; completion of foundational kata; introduction to basic kata applications; refinement of
   simple partner drills; introduction to intermediate partner drills.
 * **Social:** Introduction to less common karate etiquette and basic leadership roles in the dojo.
-* **Mental:** Begin learning Japanese terminology for techniques and learning more about Shotokan in general.
+* **Scholastic:** Begin learning Japanese terminology for techniques and learning more about Shotokan in general.
 
 Intermediate students should begin focusing on proper alignment (posture and joint positioning) when stationary,
 progressing towards maintaining alignment while in motion. Strength and speed should develop but not be emphasized at
@@ -107,7 +107,7 @@ and tournament variations (JKA vs. WKF).
   learning Shotokan core kata and basic applications; refinement of partner drills; introduction to advanced partner
   drills.
 * **Social:** Intermediate leadership roles in the dojo.
-* **Mental:** Japanese terminology for concepts and learning more about karate in general.
+* **Scholastic:** Japanese terminology for concepts and learning more about karate in general.
 
 Advanced students should focus on how they move. Particular attention should be paid to proper breathing, power
 generation, balance, coordination, and footwork. Understanding how these concepts relate to performing combinations of
@@ -140,7 +140,7 @@ the karate world in general should be developed, including awareness of other ma
   combinations exploring more advanced footwork; learning auxiliary Shotokan kata curriculum; deep exploration of
   tokuigata; kata application synthesis; refinement of advanced partner drills and strategies.
 * **Social:** Leadership within the dojo and at special events, such as promotions, gasshuku, and tournaments.
-* **Mental:** Individualized research into Shotokan, karate-adjacent topics, or relating cross-training concepts into
+* **Scholastic:** Individualized research into Shotokan, karate-adjacent topics, or relating cross-training concepts into
   Shotokan training.
 
 New black belts should begin working towards ensuring the lessons learned in their kihon are being applied evenly to
