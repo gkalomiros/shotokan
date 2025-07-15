@@ -1,5 +1,7 @@
 # Advanced Mudansha Curriculum
 
+## Overall
+
 Material advanced mudansha learn to prepare for promotion to yudansha.
 
 ## Physical
@@ -12,7 +14,9 @@ performed at a level of competency equal to this level's requirements.
 
 ### Kihon
 
-#### Punches/Strikes/Kicks
+#### Stances/Footwork
+
+#### Punches, Blocks, Kicks, and Strikes
 
 * kaiten gyakuzuki zenkutsudachi
 * kaiten ushirogeri, kagegeri, or uchi mikazukigeri zenkutsudachi
@@ -21,7 +25,7 @@ performed at a level of competency equal to this level's requirements.
 * tobi maegeri zenkutsudachi
 * tobi yokogeri kibadachi
 
-#### Combinations
+#### Combination Movements
 
 * sanbon waza, fluid variaty of techniques, stances, and footwork is expected
 * nidangeri waza zenkutsudachi, same leg kicking
@@ -65,7 +69,7 @@ Additionally, students should know how to, and ideally have demonstrated, perfor
 like starting and ending a class, leading class warmups, and instructing beginner and intermediate mudansha material
 at a level appropriate for the level being taught.
 
-## Mental
+## Scholastic
 
 Students are required to take and pass a written exam that demonstrates:
 
