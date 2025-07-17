@@ -1,38 +1,47 @@
 # 1st Kyu/3rd Brown Belt Curriculum
 
+## Overall
+
 Physical material 1st kyu/3rd brown belt students learn to prepare for promotion to shodan/1st black belt.
 
-## Kihon
+## Physical
 
-### Tsuki Waza/Uke Waza/Keri Waza
+### Kihon
 
-* **tobi maegeri**
-* **tobi yokogeri**
+#### Tachi Waza
 
-### Combinations
+* *no new material*
 
-* **nidan keriwaza zenkutsudachi, same leg: any combination**
-* **kizamizuki sankaku maegeri or mawashigeri**
-* **perched maegeri, mawashigeri, yoko keage, ushirogeri**
-* **switch step kizamizuki maegeri, oizuki jiyyugamae**
-* **kizami gyakusankaku mawashigeri**
-* **gyakuzuki sankaku mawashigeri or yoko kekomi**
+#### Tsuki Waza, Uke Waza, Keri Waza, Uchi Waza
 
-* sanbon waza, fluid variaty of techniques, stances, and footwork is expected
-* nidangeri waza zenkutsudachi, same leg kicking
-* perched maegeri, mawashigeri, yokokeage, ushigeri; gokai
-* off-angle back leg back step kizamizuki gyakuzuki maegeri jiyyugamae
-* switch step kizamizuki maegeri oizuki jiyyugamae
-* kizamizuki shuffle up maegeri jiyyugamae
-* kizamizuki gyakusankaku mawashigeri jiyyugamae
-* gyakuzuki sankaku mawashigeri or yokogeri jiyyugamae
+* tobi maegeri
+* tobi yokogeri
+
+#### Combinations
+
+* back leg steps back at back-side off-angle kizamizuki gyakuzuki mawashigeri jiyyugamae
+* back leg steps back to front-side off-angle uraken kizami maegeri gyakuzuki jodan jiyyagamae
 * rear leg first kizamizuki gyakuzuki jiyyugamae
+* switching step kizamizuki, gyakuzki maegeri jiyyugamae
 
 ## Kata
 
-* **all** of: Bassai Dai, Empi, Jion, or Kanku Dai
+Any one of the following selected as **tokuigata**
+
+* Bassai dai
+* Empi
+* Jion
+* Kanku dai
 
 ## Kumite
 
-* **jiyyu ippon kumite jodan oizuki, chudan oizuki, maegeri, mawashigeri, kaiten ushirogeri**
-* **grabs and escapes while moving and with moderate and reasonable resistance**
+* Use of applications from tokuigata in grabs and escapes
+
+## Social
+
+No new material
+
+## Scholastic
+
+Students should be researching their tokuigata by investigating any historical facts, identifying variations within
+Shotokan, suggested applications, and identifying what makes it different from the other core Shotokan kata.

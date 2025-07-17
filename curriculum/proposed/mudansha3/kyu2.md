@@ -1,28 +1,55 @@
 # 2nd Kyu/2nd Brown Belt Curriculum
 
+## Overall
+
 Physical material 2nd kyu/2nd brown belt students learn to prepare for promotion to 1st kyu/3rd brown belt.
 
-## Kihon
+## Physical
 
-### Tsuki Waza/Uke Waza/Keri Waza
+### Kihon
 
-* **kaiten gyakuzuki**
-* **kaiten uchi mikazukigeri or kagegeri**
+#### Tachi Waza
 
-### Combinations
+* Students at this level should be practicing application alternate footwork in kihon such as:
+  * spinning step
+  * switch then step
+  * step in then step out
+  * stepping forward while pulling the lead leg back
+  * off-angle stepping
+  * rear-leg off-angling then stepping
 
-* **nidan keriwaza zenkutsudachi, same leg: any combination**
-* **kizamizuki sankaku maegeri or mawashigeri**
-* **perched maegeri, mawashigeri, yoko keage, ushirogeri**
-* **switch step kizamizuki maegeri, oizuki jiyyugamae**
-* **kizami gyakusankaku mawashigeri**
-* **gyakuzuki sankaku mawashigeri or yoko kekomi**
+#### Tsuki Waza, Uke Waza, Keri Waza, Uchi Waza
 
-## Kata
+* kaiten gyakuzuki
+* kaiten uchi mikazukigeri
+* kaiten kagegeri
 
-* **all** of: Bassai Dai, Empi, Jion, or Kanku Dai
+#### Combinations
 
-## Kumite
+* nidan keriwaza zenkutsudachi, same leg: any combination
+* perched maegeri, mawashigeri, yoko keage, ushirogeri
+* kizamizuki sankaku maegeri or mawashigeri chudan jiyyugamae
+* kizamizuki gyakusankaku mawashigeri jodan jiyyugamae
+* kizamizuki gyakuzuki sankaku mawashigeri or yoko kekomi jiyyugamae
+* front foot step in, oigyakuzuki gyakuzuki maegeri jiyyugamae
 
-* **jiyyu ippon kumite jodan oizuki, chudan oizuki, maegeri, mawashigeri, kaiten ushirogeri**
-* **grabs and escapes while moving and with moderate and reasonable resistance**
+### Kata
+
+Learn **all** of:
+
+* Bassai Dai
+* Empi
+* Jion
+* Kanku Dai
+
+### Kumite
+
+* *no new material*
+
+## Social
+
+No new material
+
+## Scholastic
+
+No new material

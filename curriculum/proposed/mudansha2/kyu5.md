@@ -23,8 +23,6 @@ All previous material is expected to be refined because this and future material
 
 #### Combinations
 
-* shutuke kokutsudachi, kizami maegeri (lead-leg front kick), gyaku nukite zenkutsudachi
-* soto uke zenkutsudachi, yoko empi kibadachi, uraken gyakuzuki zenkutsudachi
 * age uke zenkutsudachi ura ashi maegeri (stationary back leg front kick)
 * nihon tsukiwaza, uchiwaza, and ukewaza (double techniques in any combination)
 * keriwaza to tsukiwaza, uchiwaza, and ukewaza (any stepping kick landing with any punch, strike, or block)
