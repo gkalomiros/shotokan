@@ -50,7 +50,7 @@ Learn at least **one** of:
 ## Social
 
 Brown belts should begin taking on more leadership roles and responsibilities like be ready to start and end classes,
-leading class warmups, and teaching material to beginner and intermediate mudansha.
+leading class warmups, and teaching material to groups of same colored belts from yellow to purple.
 
 ## Scholastic
 

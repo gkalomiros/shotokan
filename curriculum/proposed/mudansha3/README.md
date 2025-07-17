@@ -10,6 +10,8 @@ Students should be able to absorb the material in about two years of consistent 
 uncommon. Also, students at this level are evaluated on speed and power, which must come from correct application of
 kinesthetic priniciples that coincide with Shotokan principles. For example, speed and power in a punch should be
 based upon correct use of the lower body and posterior chain rather than depending soley upon the chest and shoulders.
+While proper mechanics are expected to be developed in pre-determined exercises, it is not yet expected for them to be
+fully integrated into free-form movements, like dynamic kihon or free-sparring.
 
 ## Physical
 
