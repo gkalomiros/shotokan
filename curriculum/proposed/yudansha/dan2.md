@@ -4,11 +4,9 @@
 
 ## Physical
 
+continue working on inflection and applying weight with shorter movements, but in more free combinations
+
 ### Kihon
-
-#### Tachi Waza
-
-#### Tsuki Waza, Uke Waza, Keri Waza, Uchi Waza
 
 #### Combination Movements
 
@@ -23,6 +21,8 @@
 
 ### Kata
 
+learn common kata from the remaining Shotokan syllabus
+
 * Hangetsu
 * Nijushiho
 * Sochin
@@ -32,5 +32,7 @@
 ### Kumite
 
 ## Social
+
+begin teaching mixed ranks of students
 
 ## Scholastic

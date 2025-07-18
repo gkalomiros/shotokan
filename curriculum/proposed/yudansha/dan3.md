@@ -10,6 +10,8 @@ No new material
 
 ### Kata
 
+Learn remaining kata from Shotokan syllabus. Also focus on an in-depth study in a single kata.
+
 * Gankaku
 * Chinte
 * Unsu
@@ -27,5 +29,7 @@ those applications. Changes should be subtle or minor such that the kata is stil
 No new material
 
 ## Social
+
+Be able to instruct other black belts, lead an entire class in absence of sensei, or formulate and present own mini-seminars
 
 ## Scholastic

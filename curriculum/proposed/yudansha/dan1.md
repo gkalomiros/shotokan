@@ -4,6 +4,8 @@
 
 ## Physical
 
+begin working on inflection and applying weight with shorter movements in predefined movements
+
 ### Kihon
 
 #### Combination Movements
@@ -26,6 +28,8 @@
 
 ### Kata
 
+learn Shotokan variations of core kata
+
 * Tekki Nidan
 * Tekki Sandan
 * Bassai sho
@@ -38,5 +42,7 @@
 * 2:1 jiyyu kumite
 
 ## Social
+
+begin teaching white belts and brown belts, presiding over mudansha examinations, and judging at tournaments
 
 ## Scholastic
