@@ -19,10 +19,10 @@
 * Gohon Empi Sho
   * oi tate empi hachijidachi, kizami otoshi empi shiko/kiba tachi, gyaku mawashi empi, gyaku yoko empi fudodachi, kizami mae empi zenkutsudachi
 * Nihon Ashiwaza Sho
-  * hittsui, osotogari
-  * uchi mikazuki hiza, kansetsugeri
-  * soto mikazuki hiza, fumikomigeri
-  * kake ashikube, mae kekomi gedan
+  * hittsui, osotogari hachijidachi
+  * uchi mikazuki hiza, kansetsugeri hachijidachi
+  * soto mikazuki hiza, fumikomigeri hachijidachi
+  * kake ashikube, mae kekomi gedan hachijidachi
 
 ### Kata
 
