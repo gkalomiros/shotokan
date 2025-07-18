@@ -6,15 +6,19 @@
 
 ### Kihon
 
-#### Tachi Waza
-
-#### Tsuki Waza, Uke Waza, Keri Waza, Uchi Waza
-
-#### Combination Movements
+No new material
 
 ### Kata
 
+* Gankaku
+* Chinte
+* Unsu
+* Meikyo
+* Wankan
+
 ### Kumite
+
+No new material
 
 ## Social
 
