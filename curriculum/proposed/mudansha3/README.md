@@ -2,7 +2,7 @@
 
 ## Overall
 
-This is the material advanced mudansha learn and must be able to demonstrate preparedness for the advanced mudansha
+This is the material advanced mudansha learn and must be able to demonstrate preparedness for the yudansha
 curriculum. Having demonstrated correct posture and joint alignment in their movements, students should focus on
 improving how they move through their motions rather than simply arriving in the correct positions.
 

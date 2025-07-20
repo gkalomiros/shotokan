@@ -136,9 +136,9 @@ the karate world in general should be developed, including awareness of other ma
 
 **Themes:**
 
-* **Physical:** Application of proper kinesthetics in all kihon, kata, and kumite; free-form combinations and
-  combinations exploring more advanced footwork; learning auxiliary Shotokan kata curriculum; deep exploration of
-  tokuigata; kata application synthesis; refinement of advanced partner drills and strategies.
+* **Physical:** Application of proper kinesthetics in all kihon, kata, and kumite; refining movements to smaller ranges
+* of motion; free-form combinations; learning auxiliary Shotokan kata curriculum; deep exploration of tokuigata; kata
+  application synthesis; refinement of advanced partner drills and strategies.
 * **Social:** Leadership within the dojo and at special events, such as promotions, gasshuku, and tournaments.
 * **Scholastic:** Individualized research into Shotokan, karate-adjacent topics, or relating cross-training concepts into
   Shotokan training.
