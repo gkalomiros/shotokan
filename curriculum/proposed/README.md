@@ -18,10 +18,10 @@ A student who earns their black belt should:
 
 This curriculum groups ranks into four broad stages:
 
-1. Beginner (Mudansha)
-2. Intermediate (Mudansha)
-3. Advanced (Mudansha)
-4. Yudansha
+1. [Beginner (Mudansha)](#beginner_mudansha)
+2. [Intermediate (Mudansha)](#intermediate_mudansha)
+3. [Advanced (Mudansha)](#advanced_mudansha)
+4. [Yudansha](#yudansha)
 
 Each stage has a learning theme that prepares the student for subsequent stages. That theme informs not just what
 material is appropriate for each rank, but also what the student should be gaining from the material.
