@@ -2,9 +2,9 @@
 
 ## Overall
 
-## Physical
+Material shodan students learn to prepare for promotion to nidan.
 
-begin working on inflection and applying weight with shorter movements in predefined movements
+## Physical
 
 ### Kihon
 
@@ -28,8 +28,6 @@ begin working on inflection and applying weight with shorter movements in predef
 
 ### Kata
 
-learn Shotokan variations of core kata
-
 * Tekki Nidan
 * Tekki Sandan
 * Bassai sho
@@ -40,9 +38,16 @@ learn Shotokan variations of core kata
 ### Kumite
 
 * 2:1 jiyyu kumite
+* Non-violent self-defense
 
 ## Social
 
-begin teaching white belts and brown belts, presiding over mudansha examinations, and judging at tournaments
+Shodan students should begin teaching both white belts and brown belts. They should learn how to judge at tournaments,
+and begin presiding over exams where students are testing for a mudansha rank.
 
 ## Scholastic
+
+Yudansha should be doing self-directed research into any topic. Broad topics to consider include, general kinesthetics,
+general self-defense principles, teaching theory, Sino-Japanese and Okinawan history and philosophy, the Japanese
+language, and cross-training in other martial arts. As students progress, they should not just be conducting study to
+improve themselves, but also thinking of how to elevate others.

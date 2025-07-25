@@ -2,9 +2,9 @@
 
 ## Overall
 
-## Physical
+Material nidan students learn to prepare for promotion to sandan.
 
-continue working on inflection and applying weight with shorter movements, but in more free combinations
+## Physical
 
 ### Kihon
 
@@ -21,8 +21,6 @@ continue working on inflection and applying weight with shorter movements, but i
 
 ### Kata
 
-learn common kata from the remaining Shotokan syllabus
-
 * Hangetsu
 * Nijushiho
 * Sochin
@@ -31,8 +29,13 @@ learn common kata from the remaining Shotokan syllabus
 
 ### Kumite
 
+* *No new material*
+
 ## Social
 
-begin teaching mixed ranks of students
+Nidan students should be given opportunities to teach mixed rank groups. They should begin proctoring mudansha exams,
+and presiding on shodan exams.
 
 ## Scholastic
+
+No set material

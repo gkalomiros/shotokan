@@ -2,6 +2,8 @@
 
 ## Overall
 
+Material sandan students learn to prepare for promotion to yondan.
+
 ## Physical
 
 ### Kihon
@@ -9,8 +11,6 @@
 No new material
 
 ### Kata
-
-Learn remaining kata from Shotokan syllabus. Also focus on an in-depth study in a single kata.
 
 * Gankaku
 * Chinte
@@ -30,6 +30,9 @@ No new material
 
 ## Social
 
-Be able to instruct other black belts, lead an entire class in absence of sensei, or formulate and present own mini-seminars
+Be able to instruct other black belts, lead an entire class in absence of sensei, or formulate and present lessons.
+Sandan students should be able to proctor or preside over any examination up to nidan.
 
 ## Scholastic
+
+No set material

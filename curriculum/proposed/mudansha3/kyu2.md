@@ -2,7 +2,7 @@
 
 ## Overall
 
-Physical material 2nd kyu/2nd brown belt students learn to prepare for promotion to 1st kyu/3rd brown belt.
+Material 2nd kyu/2nd brown belt students learn to prepare for promotion to 1st kyu/3rd brown belt.
 
 ## Physical
 
