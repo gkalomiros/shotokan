@@ -22,7 +22,6 @@ students can focus on refinement.
 #### Combinations
 
 * nippongeri (double kicks, alternating legs)
-* kizamizuki step-up maegeri or mawashigeri jiyyugamae
 
 ### Kata
 

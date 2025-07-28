@@ -24,7 +24,7 @@ All previous material is expected to be refined because this and future material
 * soto uke zenkutsudachi, yoko empi kibadachi, uraken gyakuzuki zenkutsudachi
 * age uke zenkutsudachi ura ashi maegeri gyakuzuki
 * sanbon waza
-* nidan keriwaza zenkutsudachi, same leg:
+* nihon keriwaza zenkutsudachi, same leg:
   * maegeri chudan, maegeri jodan
   * maegeri chudan, mawashigeri jodan
   * mawashigeri chudan, yoko kekomi chudan

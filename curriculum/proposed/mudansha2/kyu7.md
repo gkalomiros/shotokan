@@ -38,7 +38,8 @@ will build upon past material.
 * reverse punch front kick fighting stance (gyakuzuki maegeri jiyyugamae)
 * front kick to jab fighting stance (maegeri kizamizuki jiyyugamae)
 * **double punch front stance (renzuki zenkutsudachi)**
-* **lunge punch reverse block front stance (oizuki gyaku uke zenkutsudachi)**
+* **lunge punch to reverse block front stance (oizuki gyaku uke zenkutsudachi)**
+* **block to reverse punch front stance (uke waza gyakuzuki zenkutsudachi)**
 * **jab, reverse, front kick in fighting stance (kizamizuki gyakuzuki maegeri jiyyugamae)**
 * **jab, lunge punch, reverse punch in fighting stance (kizamizuki oizuki gyakuzuki jiyyugamae)**
 

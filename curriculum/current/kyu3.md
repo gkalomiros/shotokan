@@ -15,7 +15,7 @@
   * maegeri chudan maegeri jodan
   * maegeri chudan mawashigeri jodan
   * uchi mikazukigeri maegeri
-  * yoko kea`ge yoko kekomi
+  * yoko keage yoko kekomi
 
 ## Kata
 

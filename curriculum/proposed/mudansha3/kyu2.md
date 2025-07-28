@@ -10,7 +10,7 @@ Material 2nd kyu/2nd brown belt students learn to prepare for promotion to 1st k
 
 #### Tachi Waza
 
-* Students at this level should be practicing application alternate footwork in kihon such as:
+* Students at this level should be practicing application of alternate footwork in kihon such as:
   * spinning step
   * switch then step
   * step in then step out
@@ -26,7 +26,7 @@ Material 2nd kyu/2nd brown belt students learn to prepare for promotion to 1st k
 
 #### Combinations
 
-* nidan keriwaza zenkutsudachi, same leg: any combination
+* nihon keriwaza zenkutsudachi, same leg: any combination
 * perched maegeri, mawashigeri, yoko keage, ushirogeri
 * kizamizuki sankaku maegeri or mawashigeri chudan jiyyugamae
 * kizamizuki gyakusankaku mawashigeri jodan jiyyugamae
